@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">A7S212021Prac0</string>
+    <string name="Tirulo">Bienvenido Galán</string>
+    <string name="IngNombre">Igrese sus Datos</string>
+    <string name="ingrese_su_nombre">Nombre(s)</string>
+    <string name="ingrese_su_apellido">Apellidos</string>
+    <string name="ingrese_su_contraseña">Contraseña</string>
+    <string name="Boton">Finalizar</string>
+</resources>
